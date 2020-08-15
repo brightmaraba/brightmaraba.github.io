@@ -1,7 +1,8 @@
 ---
 layout: page
-title: About - Jambo and Karibu to my Github Page
+title: Jambo and Karibu to my Github Page
 permalink: /about/
+published: true
 ---
 My name is Brian Koech. I am originally from Kenya, East Africa but I now live, study and work in Western Australia.  G'day!  
 
