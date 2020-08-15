@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: Jambo and Karibu to my Github Page
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+My name is Brian Koech, I am originally from Kenya, East Africa but I now live, study and work in Western Australia. G'day, mate!  
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/nairobi.webp)  
+Nairobi, Kenya, Photo Credits - MBL  
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![_config.yml]({{ site.baseurl }}/images/hometown.png)  
+Perth, Western Australia - Photo Credits - CCCLM  
+
+I hold a Bachelor of Science in Computer Science and Technology, and Master of Science in Information Technology (Internetworking and Security).  
+
+My academic and professional interest is primarily in Networking and Security, although my love for coding has allowed me to continue developing various systems for gig clients. I love Python: I am enjoying learning to craft great applications using Python Flask, and intergrating Machine Learning and Artificial Intelligence into them. 
